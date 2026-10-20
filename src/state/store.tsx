@@ -6,7 +6,7 @@ import { LANGUAGES, type Lang } from '../content/types';
 import { STRINGS, type Strings } from '../i18n/strings';
 import { initialState, reducer, type Action, type AppState } from './model';
 
-const STORAGE_KEY = 'vocabo/state/v1';
+const STORAGE_KEY = 'verbalia/state/v1';
 
 interface Store {
   state: AppState;

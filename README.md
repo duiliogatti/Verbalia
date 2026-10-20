@@ -1,6 +1,6 @@
-# Vocabo
+# Verbalia
 
-App móvil (iOS y Android) para ampliar vocabulario en inglés, español y francés con tarjetas, repetición espaciada y rachas diarias. "Vocabo" es un nombre provisional.
+App móvil (iOS y Android) para ampliar vocabulario en inglés, español y francés con tarjetas, repetición espaciada y rachas diarias.
 
 ## Qué incluye esta primera versión
 

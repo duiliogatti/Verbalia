@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "Vocabo",
-    "slug": "vocabo",
+    "name": "Verbalia",
+    "slug": "verbalia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.vocabo.app"
+      "bundleIdentifier": "com.verbalia.app"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.vocabo.app"
+      "package": "com.verbalia.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -27,6 +27,6 @@
       "expo-router",
       "expo-localization"
     ],
-    "scheme": "vocabo"
+    "scheme": "verbalia"
   }
 }

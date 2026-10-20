@@ -36,7 +36,7 @@ export default function Home() {
     <Screen>
       <ScrollView contentContainerStyle={{ gap: 16, paddingBottom: 24 }}>
         <View style={styles.header}>
-          <Text style={text.title}>Vocabo</Text>
+          <Text style={text.title}>Verbalia</Text>
           <Text style={styles.lang}>{t.langNames[profile.target]}</Text>
         </View>
 

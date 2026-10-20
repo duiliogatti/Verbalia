@@ -66,7 +66,7 @@ export default function Onboarding() {
     <Screen>
       <ScrollView contentContainerStyle={{ gap: 24, paddingBottom: 24 }}>
         <View style={{ gap: 6, marginTop: 24 }}>
-          <Text style={text.title}>Vocabo</Text>
+          <Text style={text.title}>Verbalia</Text>
           <Text style={text.muted}>{t.tagline}</Text>
         </View>
 
